@@ -77,3 +77,14 @@
     text-align: center;
     font-weight: bold;
 }
+
+.next{
+    width: 378;
+    height: 378;
+    background: blue;
+  }
+  .prev{
+    width: 378;
+    height: 378;
+    background: blue;
+  }
