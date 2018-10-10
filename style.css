@@ -1,0 +1,79 @@
+
+#logo {
+    margin: auto
+}
+#login_table {
+    
+    margin: auto;
+    margin-top: 100px;
+
+    
+}
+#login_logo {
+
+    width: 50px;
+    padding-right: 5px;
+   ;
+}
+
+#login_form {
+    text-align: left;
+    padding-left: 5px;
+}
+
+#username_textbox {
+}
+
+#password_textbox {
+
+    margin-left: 4px;
+}
+
+#password_submit_button {
+    margin-right: 10px;
+    background-color: blue;
+    color: white;
+}
+
+#forgot_password_button {
+    margin-left: 50px;
+    background-color: orange;
+}
+
+#profile_button {
+    background-color: blue;
+    color: white;
+}
+
+#add_sprinterval_button {
+
+    background-color: orange;
+}
+.delete_button {
+    color:red;
+}
+
+#sprintervals_button {
+    background-color: orange;
+}
+
+#personal_info {
+    width: 100px;
+}
+#units {
+    width: 200px;
+}
+
+#radnor {
+    margin-right: 100px
+}
+
+#change_password_form {
+    width: 400px;
+    display: block;
+}
+
+#change_password_header{
+    text-align: center;
+    font-weight: bold;
+}
